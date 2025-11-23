@@ -37,15 +37,15 @@ const TAB_DATA = [
       <div>
         <ul className="list-disc pl-2">
           <li>Bachelor&apos;s of Engineering</li>
-          <p className="text-[#ADB7BE]">Terna Engineering College</p>
+          <p className="text-[#ADB7BE]">Vidyavardhini's College of Engineering and Technology</p>
         </ul>
         <ul className="list-disc pl-2">
           <li>Higher Secodnary Education</li>
-          <p className="text-[#ADB7BE]">Vani Vidyalaya</p>
+          <p className="text-[#ADB7BE]">Thakur college of Science and Commerce</p>
         </ul>
         <ul className="list-disc pl-2">
           <li>Secodnary Education</li>
-          <p className="text-[#ADB7BE]">Vani Vidyalaya</p>
+          <p className="text-[#ADB7BE]">Oxford Public School</p>
         </ul>
       </div>
     ),

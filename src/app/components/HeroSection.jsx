@@ -27,7 +27,7 @@ const HeroSection = () => {
                         <br></br>
                         <TypeAnimation
                             sequence={[
-                                'Deepak',
+                                'Chandankumar',
                                 1000,
                                 'an Engineer',
                                 1000,
@@ -53,7 +53,7 @@ const HeroSection = () => {
                         <button  class="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:from-pink-500 hover:to-purple-600 text-white font-bold py-3 px-6 rounded-full shadow-lg transform transition-all duration-500 ease-in-out hover:scale-110 hover:brightness-110 hover:animate-pulse active:animate-bounce">
                                 Download CV
                         </button>                       
-                    </a>
+                    </a>    
 
 
 

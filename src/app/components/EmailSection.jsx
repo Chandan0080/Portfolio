@@ -21,10 +21,10 @@ function EmailSection() {
                 I&apos;m currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
             </p>
             <div className='socials flex flex-row gap-2'>
-                <Link href="https://github.com/deepak0103gupta">
+                <Link href="https://github.com/Chandan0080">
                     <Image src={GithubIcon} alt="Github Icon" />
                 </Link>
-                <Link href="https://www.linkedin.com/in/deepak0103/">
+                <Link href="https://www.linkedin.com/in/chandankumar-gupta/">
                     <Image src={LinkedinIcon} alt="LinkedIn Icon" />
                 </Link>
             </div>

@@ -11,7 +11,11 @@ const projectsData = [
         description: "Integrated a responsive design using Tailwind CSS for consistent user experience across devices. Incorporated product catalog, shopping cart, and checkout functionalities. Technologies Used: React.js, Tailwind CSS, JavaScript, HTML, CSS",
         image: "/images/projects/shopping-website.jpeg",
         tag:["All","Web"],
+<<<<<<< HEAD
         gitUrl: "https://github.com/Chandan0080/Shopping-Website"
+=======
+        gitUrl: "https://github.com/deepak0103gupta/Shopping-Website"
+>>>>>>> fd11bbc188bc297458682427632e2434a12b2254
     },
     {
         id: 2,
@@ -19,7 +23,11 @@ const projectsData = [
         description: "Developed a secure password management application using React.js. Implemented features for generating, storing, and retrieving passwords. Technologies Used: React.js, JavaScript, HTML, CSS",
         image: "/images/projects/Password-Manager.png",
         tag:["All","Web"],
+<<<<<<< HEAD
         gitUrl: "https://github.com/Chandan0080/Password-Manager"
+=======
+        gitUrl: "https://github.com/deepak0103gupta/Password-Manager"
+>>>>>>> fd11bbc188bc297458682427632e2434a12b2254
     },
     {
         id: 3,
@@ -27,25 +35,63 @@ const projectsData = [
         description: "Developed a E-Learning Platform using Angular for front-end and Spring Boot for back-end. Implemented features for course management, user authentication, and progress tracking. Technologies Used: Angular, Spring Boot, Java, MySQL",
         image: "/images/projects/E-Learning.jpg",
         tag:["All","Web"],
+<<<<<<< HEAD
         gitUrl: "https://github.com/Chandan0080"
     },
 
+=======
+        gitUrl: "https://github.com/deepak0103gupta"
+    },
+    {
+        id: 4,
+        title: "YouTube Layout",
+        description: " Replicated the user interface of the YouTube platform. Demonstrated proficiency in front-end web development. Focused on pixel-perfect design and attention to detail.Technologies Used: HTML, CSS",
+        image: "/images/projects/youtube-layout.jpeg",
+        tag:["All","Web"],
+        gitUrl: "https://github.com/deepak0103gupta/YouTube-Layout"
+    },
+    {
+        id: 5,
+        title: "Discord Login Page",
+        description: "Created a dynamic and visually engaging login interface. Emulated the design aesthetics of the Discord platform. Developed a Discord Login page using HTML, CSS, and JavaScript. Technologies Used: HTML, CSS, JavaScript",
+        image: "/images/projects/discord-login.jpeg",
+        tag:["All","Web"],
+        gitUrl: "https://github.com/deepak0103gupta/Discord-Login-Page"
+    },
+>>>>>>> fd11bbc188bc297458682427632e2434a12b2254
     {
         id: 6,
         title: "Heart Disease Prediction",
         description: "Utilized a Logistic Regression algorithm to determine the presence of heart disease in individuals.Applied data analysis and machine learning techniques to contribute to decision-making processes. Demonstrated strong analytical skills and the ability to derive actionable insights from data. ",
         image: "/images/projects/heart-disease.jpg",
         tag:["All","Machine Learning"],
+<<<<<<< HEAD
         gitUrl: "https://github.com/Chandan0080/Heart-Disease-Prediction"
     },
 
+=======
+        gitUrl: "https://github.com/deepak0103gupta/Heart_Disease_Prediction"
+    },
+    {
+        id: 7,
+        title: "K-Means Clustering Model",
+        description: "Built a K-Means Clustering model to distinguish between public and private colleges. Achieved an accuracy of 78%, showcasing effective clustering and classification capabilities. Contributed to data-driven decision-making processes in the education sector.",
+        image: "/images/projects/clustering.jpg",
+        tag:["All","Machine Learning"],
+        gitUrl: "https://github.com/deepak0103gupta/K-Means_Clustering_model_for_public_and_private_colleges"
+    },
+>>>>>>> fd11bbc188bc297458682427632e2434a12b2254
     {
         id: 8,
         title: "Tour Website",
         description: "Designed a dynamic and visually engaging tour interface reminiscent of real-world exploration. Developed an immersive Tour website, offering users seamless navigation and personalized experiences. Technologies employed:  CSS, JavaScript, React Js.",
         image: "/images/projects/tour-website.jpeg",
         tag:["All","Web"],
+<<<<<<< HEAD
         gitUrl: "https://github.com/Chandan0080/Plan-With-Chandan"
+=======
+        gitUrl: "https://github.com/deepak0103gupta/Tour-Website"
+>>>>>>> fd11bbc188bc297458682427632e2434a12b2254
     },
 ]
 

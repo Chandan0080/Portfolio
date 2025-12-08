@@ -35,7 +35,7 @@ const projectsData = [
         gitUrl: "https://github.com/Chandan0080"
     },
     {
-        id: 6,
+        id: 4,
         title: "Heart Disease Prediction",
         description: "Utilized a Logistic Regression algorithm to determine the presence of heart disease in individuals.Applied data analysis and machine learning techniques to contribute to decision-making processes. Demonstrated strong analytical skills and the ability to derive actionable insights from data. ",
         image: "/images/projects/heart-disease.jpg",
@@ -44,7 +44,7 @@ const projectsData = [
         gitUrl: "https://github.com/Chandan0080/Heart-Disease-Prediction"
     },
     {
-        id: 8,
+        id: 5,
         title: "Tour Website",
         description: "Designed a dynamic and visually engaging tour interface reminiscent of real-world exploration. Developed an immersive Tour website, offering users seamless navigation and personalized experiences. Technologies employed:  CSS, JavaScript, React Js.",
         image: "/images/projects/tour-website.jpeg",

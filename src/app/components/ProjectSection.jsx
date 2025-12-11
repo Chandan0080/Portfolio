@@ -47,7 +47,7 @@ const projectsData = [
         id: 5,
         title: "Tour Website",
         description: "Designed a dynamic and visually engaging tour interface reminiscent of real-world exploration. Developed an immersive Tour website, offering users seamless navigation and personalized experiences. Technologies employed:  CSS, JavaScript, React Js.",
-        image: "/images/projects/tour-website.jpeg",
+        image: "/images/projects/plan-with-chandan.png",
         tag:["All","Web"],
 
         gitUrl: "https://github.com/Chandan0080/Plan-With-Chandan"

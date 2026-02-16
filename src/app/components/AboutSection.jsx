@@ -60,7 +60,7 @@ const TAB_DATA = [
           </p>
         </ul>
         <ul className="list-disc pl-2">
-          <li>Sales Engineer</li>
+          <li>Associate Engineer</li>
           <p className="text-[#ADB7BE]">Rexel India Pvt Ltd (August 2023 to April 2023)</p>
         </ul>
         <ul className="list-disc pl-2">

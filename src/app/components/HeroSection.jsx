@@ -49,7 +49,7 @@ const HeroSection = () => {
                                 Contact Me
                         </button>
                     </a>
-                    <a href="/CHANDAN_CV.pdf" download="cv" className="flex flex-col  justify-center gap-4">
+                    <a href="/Chandan_s_CV.pdf" download="cv" className="flex flex-col  justify-center gap-4">
                         <button  class="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:from-pink-500 hover:to-purple-600 text-white font-bold py-3 px-6 rounded-full shadow-lg transform transition-all duration-500 ease-in-out hover:scale-110 hover:brightness-110 hover:animate-pulse active:animate-bounce">
                                 Download CV
                         </button>                       
